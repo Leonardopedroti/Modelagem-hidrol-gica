@@ -1,13 +1,4 @@
 
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green"/>
-</p>
-
-<img src="https://img.shields.io/badge/Language-Python-blue"/>
-</p>
-
-<img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
-</p>
-
 ## Modelagem-hidrol-gica
 # Modelagem realizada para uma pequena bacia hidrográfica do município de Buri - SP.
 
@@ -22,3 +13,10 @@ Another advantage of programming is that it can be used to automate data collect
 Finally, programming allows for greater transparency and replicability of hydrological modeling, as the entire process is documented and can be easily shared and reproduced by other researchers.
 
 In short, hydrological modeling done using programming can be more efficient than software, allowing greater flexibility, control and automation of the modeling process, in addition to greater transparency and replicability of the results.
+
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green"/>
+</p>
+<img src="https://img.shields.io/badge/Language-Python-blue"/>
+</p>
+<img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
+</p>
