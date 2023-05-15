@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="(https://img.shields.io/badge/Language-Python-blue)"/>
+<img src="https://img.shields.io/badge/Language-Python-blue"/>
 </p>
 
 ## Modelagem-hidrol-gica
