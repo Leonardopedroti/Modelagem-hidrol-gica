@@ -14,9 +14,8 @@ Finally, programming allows for greater transparency and replicability of hydrol
 
 In short, hydrological modeling done using programming can be more efficient than software, allowing greater flexibility, control and automation of the modeling process, in addition to greater transparency and replicability of the results.
 
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green"/>
+<img src="https://img.shields.io/badge/Status-in%20development-green"/>
 </p>
 <img src="https://img.shields.io/badge/Language-Python-blue"/>
 </p>
 <img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
-</p>
