@@ -1,12 +1,10 @@
-#<p align="center">
+
 <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green"/>
 </p>
 
-#<p align="center">
 <img src="https://img.shields.io/badge/Language-Python-blue"/>
 </p>
 
-#<p align="center">
 <img src="https://img.shields.io/badge/Release%20Date-undetermined-yellow"/>
 </p>
 
